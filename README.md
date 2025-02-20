@@ -22,9 +22,4 @@ python src/iot_client.py
 2. IoT devices request access based on their attributes.
 3. The server grants or denies access.
 
-```
-Response: { "access": true }
-```
-=======
-# privacy-iot-access
->>>>>>> 742ab4939f845a4bec103137f646f49604451102
+
