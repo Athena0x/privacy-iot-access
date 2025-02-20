@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Privacy-Preserving Access Management System for IoT Devices
 
 This project implements a privacy-preserving single-sign-on (ASSO) system for IoT devices in a sharing economy.
